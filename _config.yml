@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Gopika Ajaykumar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/gopika.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. student studying Human-Robot Interaction at JHU"
   location         : "Baltimore, Maryland"
   email            :
