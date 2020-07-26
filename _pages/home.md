@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gopika Ajaykumar"
+title: ""
 author_profile: true
 redirect_from:
   - /index.html
