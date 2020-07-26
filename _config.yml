@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Gopika Ajaykumar"
   avatar           : "assets/gopika.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : 3400 N Charles St
-  email            : 
+  location         : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:gopika@cs.jhu.edu"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #  url: "https://github.com/gopikaajaykumar"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #  url: "https://github.com/gopikaajaykumar"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -269,18 +269,16 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  #- scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: # true
-  #    share: true
-  #    related: true
-      
-   # _pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
   - scope:
       path: ""
       type: pages
