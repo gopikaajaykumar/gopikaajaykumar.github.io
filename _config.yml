@@ -97,7 +97,7 @@ author:
   avatar           : "assets/gopika.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Ph.D. student conducting Human-Robot Interaction research at Johns Hopkins University
   location         : 
-  email            : gopika [at] cs [dot] jhu [dot] edu
+  email            : gopika@cs.jhu.edu
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -123,7 +123,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
 
 # Reading Files
 include:
