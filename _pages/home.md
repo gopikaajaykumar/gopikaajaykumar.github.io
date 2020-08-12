@@ -9,6 +9,6 @@ I am a third-year Ph.D. student in the <a href ="https://www.cs.jhu.edu/">Depart
 
 My research has been supported by the Howard and Jacqueline Chertkof Endowed Fellowship and is currently supported by the 2018 National Science Foundation Graduate Research Fellowship Program fellowship and the Inaugural Joint Nursing/Engineering Fellowship. 
 
-My research interests are in human-robot interaction and end-user robot programming, with a focus on data-driven tools and assistants for facilitating easy robot programming for all.
+My research interests are in human-robot interaction and end-user robot programming, with a focus on just-in-time assistance and data-driven tools for facilitating easy robot programming for all.
 
 My CV may be viewed  [here]({{ site.baseurl }}/cv.pdf).
