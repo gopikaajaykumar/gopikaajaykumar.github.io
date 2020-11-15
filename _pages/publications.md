@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Peer-Reviewed Conference Full Papers
 
-J. Han*, **G. Ajaykumar***, Z. Li, and C.-M. Huang (2020). "Structuring Human-Robot Interactions via Interaction Conventions" in *Proceedings of the 29th IEEE International Symposium on Robot and Human Interactive
+J. Han\*, **G. Ajaykumar**\*, Z. Li, and C.-M. Huang (2020). "Structuring Human-Robot Interactions via Interaction Conventions" in *Proceedings of the 29th IEEE International Symposium on Robot and Human Interactive
 Communication (RO-MAN’20)*. 
 **[[pdf]]({{ site.baseurl }}/han2020structuring.pdf)** | *equal contribution
 
