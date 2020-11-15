@@ -16,6 +16,6 @@ Y. Wang, **G. Ajaykumar**, and C.-M. Huang (2020). "See What I See: Enabling Use
 
 ### Peer-Reviewed Conference Short Papers
 
-G. Ajaykumar and C.-M. Huang (2020). "User Needs and Design Opportunities in End-User Robot Programming" in *2020 HRI Late-Breaking Report*.
+**G. Ajaykumar** and C.-M. Huang (2020). "User Needs and Design Opportunities in End-User Robot Programming" in *2020 HRI Late-Breaking Report*.
 **[[pdf]]({{ site.baseurl }}/2020hriajaykumar.pdf)** 
 
