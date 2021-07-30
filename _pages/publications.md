@@ -19,7 +19,7 @@ Y. Wang, **G. Ajaykumar**, and C.-M. Huang (2020). "See What I See: Enabling Use
 ### Peer-Reviewed Workshop and Conference Short Papers
 
 **G. Ajaykumar** and C.-M. Huang (2021). "Multimodal Robot Programming by Demonstration: A Preliminary Exploration" in *2021 RSS Workshop on Accessibility of Robot Programming and the Work of the Future*.<br />
-[[pdf]]({{ site.baseurl }}/ajaykumar2021rssws.pdf)
+**[[pdf]]({{ site.baseurl }}/ajaykumar2021rssws.pdf)**
 
 **G. Ajaykumar**, A. Mao, J. Brown, and C.-M. Huang (2021). "FACT: A Full-body Ad-hoc Collaboration Testbed for Modeling Complex Teamwork" in *2021 ICRA Workshop on Social Intelligence in Humans and Robots*.<br />
 **[[pdf]](https://arxiv.org/pdf/2106.03290.pdf)** 
