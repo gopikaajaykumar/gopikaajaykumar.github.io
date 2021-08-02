@@ -7,7 +7,7 @@ author_profile: true
 ### Journal Articles
 
 **G. Ajaykumar**, M. Stiber, and C.-M. Huang (2021). "Designing User-Centric Programming Aids for Kinesthetic Teaching of Collaborative Robots" in *Robotics and Autonomous Systems*.<br />
-**[[pdf]]({{ site.baseurl }}/ajaykumar2021designing.pdf) [[vid]](https://www.youtube.com/watch?v=qvTMBZkvxwM)**
+**[[pdf]]({{ site.baseurl }}/ajaykumar2021designing.pdf) [[vid]](https://www.youtube.com/watch?v=qvTMBZkvxwM) [[code]](https://github.com/intuitivecomputing/demoshop)**
 
 **G. Ajaykumar**, M. Steele, and C.-M. Huang (2021). "A Survey on End-User Robot Programming" in *ACM Computing Surveys (CSUR)*.
 
