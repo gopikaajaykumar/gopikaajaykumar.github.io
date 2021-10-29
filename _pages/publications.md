@@ -10,7 +10,7 @@ author_profile: true
 **[[pdf]]({{ site.baseurl }}/ajaykumar2021designing.pdf) [[vid]](https://www.youtube.com/watch?v=qvTMBZkvxwM) [[code]](https://github.com/intuitivecomputing/demoshop)**<br />
 
 **G. Ajaykumar**, M. Steele, and C.-M. Huang (2021). "A Survey on End-User Robot Programming" in *ACM Computing Surveys (CSUR)*.<br />
-**[[pdf]](https://arxiv.org/pdf/2105.01757.pdf)** 
+**[[pdf]](https://doi.org/10.1145/3466819)** 
 
 ### Peer-Reviewed Conference Full Papers
 
