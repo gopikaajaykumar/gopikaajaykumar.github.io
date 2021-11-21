@@ -25,6 +25,7 @@ Y. Wang, **G. Ajaykumar**, and C.-M. Huang (2020). "See What I See: Enabling Use
 ### Peer-Reviewed Workshop and Conference Short Papers
 
 A. Mahmood, **G. Ajaykumar**, and C.-M. Huang (2021). "How Mock Model Training Enhances User Perceptions of AI Systems" in *2021 NeurIPS Workshop on Human-Centered AI*.<br/>
+**[[pdf]](https://arxiv.org/pdf/2111.08830.pdf)** 
 
 **G. Ajaykumar** and C.-M. Huang (2021). "Multimodal Robot Programming by Demonstration: A Preliminary Exploration" in *2021 RSS Workshop on Accessibility of Robot Programming and the Work of the Future*.<br />
 **[[pdf]]({{ site.baseurl }}/ajaykumar2021rssws.pdf)**
