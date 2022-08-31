@@ -11,4 +11,4 @@ My research has been supported by the Howard and Jacqueline Chertkof Endowed Fel
 
 My research interests are in human-robot interaction and end-user robot programming, with a focus on just-in-time assistance and data-driven tools for facilitating easy robot programming for all.
 
-My CV may be viewed  [here]({{ site.baseurl }}/cv.pdf).
+My CV may be viewed  [here]({{ site.baseurl }}/Gopika_CV.pdf).
