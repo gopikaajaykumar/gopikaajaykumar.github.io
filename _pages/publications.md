@@ -24,6 +24,9 @@ Y. Wang, **G. Ajaykumar**, and C.-M. Huang (2020). "See What I See: Enabling Use
 
 ### Peer-Reviewed Workshop and Conference Short Papers
 
+**G. Ajaykumar**, and C.-M. Huang (2023). "Older Adults’ Task Preferences for Robot Assistance in the Home" in *2023 AAAI Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks*.<br/>
+**[[pdf]](https://arxiv.org/pdf/2302.12686.pdf)** 
+
 A. Mahmood, **G. Ajaykumar**, and C.-M. Huang (2021). "How Mock Model Training Enhances User Perceptions of AI Systems" in *2021 NeurIPS Workshop on Human-Centered AI*.<br/>
 **[[pdf]](https://arxiv.org/pdf/2111.08830.pdf)** 
 
