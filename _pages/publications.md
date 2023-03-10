@@ -34,7 +34,7 @@ A. Mahmood, **G. Ajaykumar**, and C.-M. Huang (2021). "How Mock Model Training E
 **[[pdf]]({{ site.baseurl }}/ajaykumar2021rssws.pdf)**
 
 **G. Ajaykumar**, A. Mao, J. Brown, and C.-M. Huang (2021). "FACT: A Full-body Ad-hoc Collaboration Testbed for Modeling Complex Teamwork" in *2021 ICRA Workshop on Social Intelligence in Humans and Robots*.<br />
-**[[pdf]](https://arxiv.org/pdf/2106.03290.pdf)** 
+**[[pdf]](https://arxiv.org/pdf/2106.03290.pdf) [[code]](https://github.com/intuitivecomputing/FACT)** 
 
 **G. Ajaykumar** and C.-M. Huang (2020). "User Needs and Design Opportunities in End-User Robot Programming" in *2020 HRI Late-Breaking Report*.<br /> 
 **[[pdf]]({{ site.baseurl }}/2020hriajaykumar.pdf) [[vid]](https://www.youtube.com/watch?v=nlRoyGLH5ok)** 
