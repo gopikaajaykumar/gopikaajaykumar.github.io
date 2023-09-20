@@ -6,6 +6,9 @@ author_profile: true
 ---
 ### Journal Articles
 
+**G. Ajaykumar**, K.T. Pineda, and C.-M. Huang (2023). "Older adults’ expectations, experiences, and preferences in programming physical robot assistance" in *International Journal of Human-Computer Studies*.<br />
+**[[pdf]]({{ site.baseurl }}/ajaykumar2023older.pdf)**<br />
+
 **G. Ajaykumar**, M. Stiber, and C.-M. Huang (2021). "Designing User-Centric Programming Aids for Kinesthetic Teaching of Collaborative Robots" in *Robotics and Autonomous Systems*.<br />
 **[[pdf]]({{ site.baseurl }}/ajaykumar2021designing.pdf) [[vid]](https://www.youtube.com/watch?v=qvTMBZkvxwM) [[code]](https://github.com/intuitivecomputing/demoshop)**<br />
 
