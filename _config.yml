@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Gopika Ajaykumar"
-  avatar           : "assets/Img_2023_12_01_01_32_03~4.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/PXL_20230316_073314469.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Ph.D. student with expertise in human-robot interaction, user research, and end-user robot programming
   location         : Baltimore, Maryland
   email            : gopika@cs.jhu.edu
