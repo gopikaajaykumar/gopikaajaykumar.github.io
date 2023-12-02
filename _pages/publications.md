@@ -6,6 +6,9 @@ author_profile: true
 ---
 ### Journal Articles
 
+**G. Ajaykumar**, G.D. Hager, and C.-M. Huang (2023). "Curricula for teaching end-users to kinesthetically program collaborative robots" in *PLOS ONE*.<br />
+**[[pdf]](https://doi.org/10.1371/journal.pone.0294786)**<br />
+
 **G. Ajaykumar**, K.T. Pineda, and C.-M. Huang (2023). "Older Adults’ Expectations, Experiences, and Preferences in Programming Physical Robot Assistance" in *International Journal of Human-Computer Studies*.<br />
 **[[pdf]]({{ site.baseurl }}/ajaykumar2023older.pdf)**<br />
 
